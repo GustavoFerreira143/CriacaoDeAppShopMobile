@@ -12,38 +12,56 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RentShopVT
-build_property.ProjectDir = C:\Users\gusta\3D Objects\Teste Projeto\CriacaoDeAppShopMobile\RentShopVT\
+build_property.ProjectDir = C:\Users\gusta\source\repos\RentShopVT\RentShopVT\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/gusta/3D Objects/Teste Projeto/CriacaoDeAppShopMobile/RentShopVT/App.xaml]
+[C:/Users/gusta/source/repos/RentShopVT/RentShopVT/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = RentShopVT.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/gusta/3D Objects/Teste Projeto/CriacaoDeAppShopMobile/RentShopVT/AppShell.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = RentShopVT.AppShell.xaml
-build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
-build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
-
-[C:/Users/gusta/3D Objects/Teste Projeto/CriacaoDeAppShopMobile/RentShopVT/MainPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = RentShopVT.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
-
-[C:/Users/gusta/3D Objects/Teste Projeto/CriacaoDeAppShopMobile/RentShopVT/Resources/Styles/Colors.xaml]
+[C:/Users/gusta/source/repos/RentShopVT/RentShopVT/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = RentShopVT.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/gusta/3D Objects/Teste Projeto/CriacaoDeAppShopMobile/RentShopVT/Resources/Styles/Styles.xaml]
+[C:/Users/gusta/source/repos/RentShopVT/RentShopVT/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = RentShopVT.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/gusta/source/repos/RentShopVT/RentShopVT/Views/Components/CarrinhoDeCompras/MeuCarrinho.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RentShopVT.Views.Components.CarrinhoDeCompras.MeuCarrinho.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\CarrinhoDeCompras\MeuCarrinho.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\CarrinhoDeCompras\MeuCarrinho.xaml
+
+[C:/Users/gusta/source/repos/RentShopVT/RentShopVT/Views/Components/HomePage/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RentShopVT.Views.Components.HomePage.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\HomePage\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\HomePage\HomePage.xaml
+
+[C:/Users/gusta/source/repos/RentShopVT/RentShopVT/Views/Components/PerfilUser/PerfilUser.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RentShopVT.Views.Components.PerfilUser.PerfilUser.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\PerfilUser\PerfilUser.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\PerfilUser\PerfilUser.xaml
+
+[C:/Users/gusta/source/repos/RentShopVT/RentShopVT/Views/Components/SearchPage/SearchPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RentShopVT.Views.Components.SearchPage.SearchPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\SearchPage\SearchPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\SearchPage\SearchPage.xaml
+
+[C:/Users/gusta/source/repos/RentShopVT/RentShopVT/Views/MainPageNovo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RentShopVT.Views.MainPageNovo.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MainPageNovo.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MainPageNovo.xaml
