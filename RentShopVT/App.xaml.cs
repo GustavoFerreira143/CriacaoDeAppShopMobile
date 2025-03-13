@@ -1,4 +1,6 @@
-﻿namespace RentShopVT
+﻿using RentShopVT.Views;
+
+namespace RentShopVT
 {
     public partial class App : Application
     {
@@ -6,7 +8,7 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new MainPageNovo();
         }
     }
 }

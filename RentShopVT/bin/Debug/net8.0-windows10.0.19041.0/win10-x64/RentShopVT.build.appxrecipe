@@ -199,6 +199,21 @@
     <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cart.scale-100.png">
+      <PackagePath>cart.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cart.scale-125.png">
+      <PackagePath>cart.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cart.scale-150.png">
+      <PackagePath>cart.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cart.scale-200.png">
+      <PackagePath>cart.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cart.scale-400.png">
+      <PackagePath>cart.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -214,6 +229,57 @@
     <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\house.scale-100.png">
+      <PackagePath>house.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\house.scale-125.png">
+      <PackagePath>house.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\house.scale-150.png">
+      <PackagePath>house.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\house.scale-200.png">
+      <PackagePath>house.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\house.scale-400.png">
+      <PackagePath>house.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\personcircle.scale-100.png">
+      <PackagePath>personcircle.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\personcircle.scale-125.png">
+      <PackagePath>personcircle.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\personcircle.scale-150.png">
+      <PackagePath>personcircle.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\personcircle.scale-200.png">
+      <PackagePath>personcircle.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\personcircle.scale-400.png">
+      <PackagePath>personcircle.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\projetor.scale-100.png">
+      <PackagePath>projetor.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\rentshopicon.scale-100.png">
+      <PackagePath>rentshopicon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\search.scale-100.png">
+      <PackagePath>search.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\search.scale-125.png">
+      <PackagePath>search.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\search.scale-150.png">
+      <PackagePath>search.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\search.scale-200.png">
+      <PackagePath>search.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\search.scale-400.png">
+      <PackagePath>search.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="c:\Users\gusta\source\repos\RentShopVT\RentShopVT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RentShopVT.deps.json">
       <PackagePath>RentShopVT.deps.json</PackagePath>
     </AppxPackagedFile>
@@ -222,6 +288,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gusta\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gusta\.nuget\packages\communitytoolkit.maui\9.1.0\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gusta\.nuget\packages\communitytoolkit.maui.core\9.1.0\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gusta\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -321,6 +393,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gusta\.nuget\packages\microsoft.windowsappsdk\1.5.240802000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gusta\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gusta\.nuget\packages\microsoft.maui.controls.core\8.0.100\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
