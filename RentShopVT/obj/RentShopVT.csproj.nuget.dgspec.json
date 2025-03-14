@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\RentShopVT.csproj": {}
+    "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\RentShopVT.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\RentShopVT.csproj": {
+    "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\RentShopVT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\RentShopVT.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\RentShopVT.csproj",
         "projectName": "RentShopVT",
-        "projectPath": "c:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\RentShopVT.csproj",
+        "projectPath": "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\RentShopVT.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

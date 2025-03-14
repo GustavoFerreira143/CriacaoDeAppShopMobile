@@ -1,1 +1,1 @@
-c:\Users\gusta\source\repos\RentShopVT\RentShopVT\RentShopVT.csproj;x64
+C:\Users\gusta\source\repos\RentShopVT\RentShopVT\RentShopVT.csproj;x64

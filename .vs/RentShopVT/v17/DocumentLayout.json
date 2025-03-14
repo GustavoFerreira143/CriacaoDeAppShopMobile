@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{29328311-D2FE-43D4-BFE8-855AC74828D4}|RentShopVT\\RentShopVT.csproj|solutionrelative:rentshopvt\\views\\components\\homepage\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{29328311-D2FE-43D4-BFE8-855AC74828D4}|RentShopVT\\RentShopVT.csproj|c:\\users\\gusta\\source\\repos\\rentshopvt\\rentshopvt\\views\\mainpagenovo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29328311-D2FE-43D4-BFE8-855AC74828D4}|RentShopVT\\RentShopVT.csproj|solutionrelative:rentshopvt\\views\\mainpagenovo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29328311-D2FE-43D4-BFE8-855AC74828D4}|RentShopVT\\RentShopVT.csproj|c:\\users\\gusta\\source\\repos\\rentshopvt\\rentshopvt\\views\\components\\homepage\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29328311-D2FE-43D4-BFE8-855AC74828D4}|RentShopVT\\RentShopVT.csproj|solutionrelative:rentshopvt\\views\\components\\homepage\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{29328311-D2FE-43D4-BFE8-855AC74828D4}|RentShopVT\\RentShopVT.csproj|c:\\users\\gusta\\source\\repos\\rentshopvt\\rentshopvt\\views\\components\\searchpage\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{29328311-D2FE-43D4-BFE8-855AC74828D4}|RentShopVT\\RentShopVT.csproj|solutionrelative:rentshopvt\\views\\components\\searchpage\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29328311-D2FE-43D4-BFE8-855AC74828D4}|RentShopVT\\RentShopVT.csproj|c:\\users\\gusta\\source\\repos\\rentshopvt\\rentshopvt\\views\\mainpagenovo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{29328311-D2FE-43D4-BFE8-855AC74828D4}|RentShopVT\\RentShopVT.csproj|solutionrelative:rentshopvt\\views\\mainpagenovo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29328311-D2FE-43D4-BFE8-855AC74828D4}|RentShopVT\\RentShopVT.csproj|c:\\users\\gusta\\source\\repos\\rentshopvt\\rentshopvt\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -148,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MeuCarrinho.xaml.cs",
               "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\Views\\Components\\CarrinhoDeCompras\\MeuCarrinho.xaml.cs",
               "RelativeDocumentMoniker": "RentShopVT\\Views\\Components\\CarrinhoDeCompras\\MeuCarrinho.xaml.cs",
@@ -156,8 +156,7 @@
               "RelativeToolTip": "RentShopVT\\Views\\Components\\CarrinhoDeCompras\\MeuCarrinho.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T20:22:44.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T20:22:44.943Z"
             },
             {
               "$type": "Document",
@@ -169,8 +168,7 @@
               "RelativeToolTip": "RentShopVT\\Views\\Components\\CarrinhoDeCompras\\MeuCarrinho.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-12T20:21:54.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T20:21:54.865Z"
             },
             {
               "$type": "Document",
@@ -198,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SearchPage.xaml",
               "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\Views\\Components\\SearchPage\\SearchPage.xaml",
               "RelativeDocumentMoniker": "RentShopVT\\Views\\Components\\SearchPage\\SearchPage.xaml",
@@ -222,16 +220,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\Views\\Components\\HomePage\\HomePage.xaml.cs",
               "RelativeDocumentMoniker": "RentShopVT\\Views\\Components\\HomePage\\HomePage.xaml.cs",
               "ToolTip": "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\Views\\Components\\HomePage\\HomePage.xaml.cs",
               "RelativeToolTip": "RentShopVT\\Views\\Components\\HomePage\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T19:56:49.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T19:56:49.975Z"
             },
             {
               "$type": "Document",
@@ -239,9 +236,9 @@
               "Title": "HomePage.xaml",
               "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\Views\\Components\\HomePage\\HomePage.xaml",
               "RelativeDocumentMoniker": "RentShopVT\\Views\\Components\\HomePage\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\Views\\Components\\HomePage\\HomePage.xaml",
-              "RelativeToolTip": "RentShopVT\\Views\\Components\\HomePage\\HomePage.xaml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\Views\\Components\\HomePage\\HomePage.xaml*",
+              "RelativeToolTip": "RentShopVT\\Views\\Components\\HomePage\\HomePage.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-12T19:56:31.223Z",
               "EditorCaption": ""
@@ -296,15 +293,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MainPageNovo.xaml",
               "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\Views\\MainPageNovo.xaml",
               "RelativeDocumentMoniker": "RentShopVT\\Views\\MainPageNovo.xaml",
               "ToolTip": "C:\\Users\\gusta\\source\\repos\\RentShopVT\\RentShopVT\\Views\\MainPageNovo.xaml",
               "RelativeToolTip": "RentShopVT\\Views\\MainPageNovo.xaml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-12T16:16:13.092Z"
+              "WhenOpened": "2025-03-12T16:16:13.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

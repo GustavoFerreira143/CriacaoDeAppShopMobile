@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RentShopVT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+011b0d896c8f733c398baf687788c5390265907f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+df24abeebbb2f8bb1cd3473ef265ec3a4af87d98")]
 [assembly: System.Reflection.AssemblyProductAttribute("RentShopVT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RentShopVT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
