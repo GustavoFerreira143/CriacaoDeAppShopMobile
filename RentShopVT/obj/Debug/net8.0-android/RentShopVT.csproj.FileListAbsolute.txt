@@ -2136,3 +2136,8 @@ C:\Users\gusta\source\repos\RentShopVT\RentShopVT\bin\Debug\net8.0-android\Micro
 C:\Users\gusta\source\repos\RentShopVT\RentShopVT\bin\Debug\net8.0-android\Microsoft.VisualStudio.DesignTools.TapContract.dll
 C:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-android\RentShopVT.csproj.Up2Date
 C:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-android\resizetizer\r\drawable\lousa.png
+C:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\trash.png
+C:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\trash.png
+C:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\trash.png
+C:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\trash.png
+C:\Users\gusta\source\repos\RentShopVT\RentShopVT\obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\trash.png

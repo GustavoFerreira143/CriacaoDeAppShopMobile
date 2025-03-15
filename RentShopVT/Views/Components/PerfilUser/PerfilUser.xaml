@@ -4,27 +4,16 @@
               x:Class="RentShopVT.Views.Components.PerfilUser.PerfilUser"
              BackgroundColor="#E2FDFF">
     <StackLayout>
-        <ContentView  BackgroundColor="#3D4DDE">
+        <Grid BackgroundColor="#3D4DDE" HeightRequest="60" ColumnDefinitions="*,Auto">
             <Label
-            Text="RentShopVT"
-            TextColor="White"
-            FontAttributes="Bold"
-            FontSize="20"
-            VerticalOptions="Center" 
-            HorizontalOptions="Start"
-            Margin="20,0,0,0"
-            HeightRequest="40"
-            />
-        </ContentView>
-        <ContentView>
-            <Label 
-            Text="Perfil de Usuário"
-            VerticalOptions="Center" 
-            Margin="20,0,0,10"
-            HeightRequest="20"
-            FontAttributes="Bold"
-            TextColor="Black"
-            />
-        </ContentView>
+           Text="RentShopVT"
+           TextColor="White"
+           FontAttributes="Bold"
+           FontSize="20"
+           VerticalOptions="Center"
+           HorizontalOptions="Start"
+           Margin="20,0,0,0"/>
+        </Grid>
+        
     </StackLayout>
 </ContentPage>
